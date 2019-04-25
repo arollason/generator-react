@@ -1,0 +1,13 @@
+{
+  "name": "generator-react",
+  "version": "1.0.0",
+  "description": "Generator for a react app using typescript, redux and other goodies.",
+  "main": "index.js",
+  "repository": "git@github.com:arollason/generator-react.git",
+  "author": "Andrew Rollason <andrew.rollason@ie.com.au>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  }
+}
